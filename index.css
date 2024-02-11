@@ -49,6 +49,7 @@
     padding: 10px;
     position: sticky;
     top: 0;
+    z-index: 1;
 }
 .topnav ul{
     list-style: none;
